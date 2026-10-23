@@ -1,1 +1,3 @@
-# Add project runtime dependencies here.
+numpy
+opencv-python-headless
+onnxruntime
