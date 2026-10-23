@@ -1,1 +1,0 @@
-"""License plate cropping helpers."""

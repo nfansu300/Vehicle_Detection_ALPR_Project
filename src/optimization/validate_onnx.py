@@ -1,1 +1,0 @@
-"""Validate ONNX model outputs."""
