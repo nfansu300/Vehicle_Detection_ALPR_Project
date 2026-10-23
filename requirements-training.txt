@@ -1,0 +1,14 @@
+# Training and ONNX optimization notebooks (Python 3.11 or 3.12).
+# Install in a separate environment from requirements.txt.
+# Ultralytics and Roboflow require different OpenCV distributions; keep their
+# versions aligned because both provide the cv2 module.
+numpy==1.26.4
+opencv-python==4.11.0.86
+opencv-python-headless==4.11.0.86
+onnx==1.23.2
+onnxruntime-gpu==1.26.0
+pandas==2.2.3
+roboflow==1.7.2
+torch==2.8.0
+torchvision==0.23.0
+ultralytics==8.4.184
