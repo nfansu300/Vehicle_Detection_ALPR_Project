@@ -40,7 +40,7 @@ adapted to your own datasets and environment.
 | [`experiments/`](./experiments/) | Training outputs and experiment artifacts |
 | Pipeline output | Created under the directory passed to `--output-dir` |
 | [`deployment/raspberry_pi_4/`](./deployment/raspberry_pi_4/) | Raspberry Pi deployment scaffold |
-| [`docs/`](./docs/) | Project documentation |
+
 
 Model artifacts are stored with Git LFS. Install Git LFS before cloning, or run
 `git lfs pull` after cloning if model files appear as small text pointer files.
