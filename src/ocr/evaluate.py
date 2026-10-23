@@ -1,0 +1,1 @@
+"""OCR evaluation entry point."""

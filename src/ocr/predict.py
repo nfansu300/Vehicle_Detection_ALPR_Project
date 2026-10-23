@@ -1,0 +1,1 @@
+"""OCR inference entry point."""
