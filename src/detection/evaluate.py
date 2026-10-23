@@ -1,1 +1,0 @@
-"""Detection evaluation entry point."""

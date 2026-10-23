@@ -1,1 +1,0 @@
-"""Detection inference entry point."""
